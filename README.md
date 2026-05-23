@@ -1,10 +1,10 @@
 # Lab8-Starter
 
-## Lab Partner(s)
+## Name
 - Brendan Barber
 
 ## Deployed GitHub Pages URL
-https://brendanbarber.github.io/Lab8-Starter/
+https://brendanbarber.github.io/Lab8_Starter/
 
 ## Graceful Degradation and Service Workers
 
