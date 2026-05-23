@@ -8,7 +8,7 @@ https://brendanbarber.github.io/Lab8_Starter/
 
 ## Graceful Degradation and Service Workers
 
-Graceful degradation and service workers are closely related because service workers are one of the main tools we use to achieve graceful degradation on the web. Graceful degradation means starting from a fully featured experience and ensuring the application still works reasonably well when some capability, such as a network connection, is missing. A service worker supports this by intercepting network requests and serving cached resources when the network is slow or unavailable. It will continue to display cached recipes, HTML, CSS, JS, and images.
+Service workers are related to graceful degredation, because it is one of the ways to achieve graceful degredation on the web. Graceful degredation means to start for a full webpage that has JS, CSS, HTML, and making sure that as those things don't work, the site continues to function as much as possible. This is helpful for people who have a bad network connection, or are on a less powerful device. A service worker supports this by taking network requests and serving cached resources when the network is really slow. For this app, it will continue to display cached recipes, HTML, CSS, JS, and images.
 
 ## PWA Screenshot
 ![PWA Screenshot](./pwa.png)
